@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to EazyBank accounts manager Info production API"
+  message: "Welcome to EazyBank accounts manager Info webhook API"
   contactDetails:
     name: "Ahila Chokkalingam - Director"
     email: "{cipher}da5c3ceaf7dcb1ea9be7fef8cba9092d20b8dcd6eccfd39e23d97ad5bff929fce123701a113cdc0114642165cc4c5179"
