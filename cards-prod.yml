@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards manager Info production API "
+  message: "Welcome to EazyBank cards manager Info webhook API "
   contactDetails:
     name: "Sandra Harald - Director"
     email: "sandra@eazybank.com"
