@@ -1,7 +1,7 @@
 accounts:
   message: "Welcome to EazyBank accounts manager Info local "
   contactDetails:
-    name: "Kavitha - Assistant Manager"
+    name: "Kavitha R - Assistant Manager"
     email: "kavitha@eazybank.com"
   onCallSupport:
     - (555) 555-1234
